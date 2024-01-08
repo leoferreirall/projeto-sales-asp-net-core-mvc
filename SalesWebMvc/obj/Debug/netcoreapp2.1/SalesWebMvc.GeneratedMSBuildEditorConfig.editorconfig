@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SalesWebMvc
+build_property.ProjectDir = C:\Projetos\sales-asp-net-core-mvc\workshop-asp-net-core-mvc\SalesWebMvc\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
